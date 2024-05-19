@@ -1,0 +1,7 @@
+com/countiesenergy/users/takehometest/controller/UserRegistrationController.class
+com/countiesenergy/users/takehometest/repository/UserRepository.class
+com/countiesenergy/users/takehometest/model/User.class
+com/countiesenergy/users/takehometest/service/UserRegistrationServiceImpl.class
+com/countiesenergy/users/takehometest/service/UserRegistrationService.class
+com/countiesenergy/users/takehometest/TakehomeApplication.class
+com/countiesenergy/users/takehometest/util/InputValidator.class
